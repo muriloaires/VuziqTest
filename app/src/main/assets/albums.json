@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "name": "Appetite for destruction",
+    "releaseDate": 1987,
+    "imageUrl": "https://i.etsystatic.com/15564183/r/il/efcd70/1406429540/il_570xN.1406429540_qo9m.jpg",
+    "artist": "Guns N' Roses",
+    "songs": [
+      {
+        "name": "Welcome To The Jungle",
+        "duration": "4:34",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1KWNy7kShloy32vJuJSuxwJvcCxSfzefZ",
+        "order": 0
+      },
+      {
+        "name": "It's so easy",
+        "duration": "3:23",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1AIR60dga9Kbo3kLJl5oaCZaKls-hNikb",
+        "order": 1
+      },
+      {
+        "name": "Nightrain",
+        "duration": "4:29",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1q2O2aMgw9zn3biprAjVe5czWxGuTbEbI",
+        "order": 2
+      },
+      {
+        "name": "Out ta get me",
+        "duration": "4:25",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1q17rfB6fViTyNcyP5hffa_i_Mbbrup6w",
+        "order": 3
+      },
+      {
+        "name": "Mr. Browstone",
+        "duration": "3:49",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1CXPDY2yRn_H-KjZdgYt8-x7vgtOGdE5L",
+        "order": 4
+      },
+      {
+        "name": "Paradise city",
+        "duration": "6:46",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1h_r3mNOxAD36Wcl-rNVX1aD_nRbsMny4",
+        "order": 5
+      },
+      {
+        "name": "My Michelle",
+        "duration": "3:40",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=15eNGTzC_RDF-tjkSpwwuK7sigDSES-0y",
+        "order": 6
+      },
+      {
+        "name": "Think about you",
+        "duration": "3:52",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=14OB_xakaqV5ZULT7KLSXwuLdsxkpdn0H",
+        "order": 7
+      },
+      {
+        "name": "Sweet child o' mine",
+        "duration": "5:55",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1SfACcvbPaFsHzQGrQGYWYiKt43jtxPr3",
+        "order": 8
+      },
+      {
+        "name": "You're crazy",
+        "duration": "3:17",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1rSKzsUJaYISSm9ogLNo-Sj8uE0VzO1tb",
+        "order": 9
+      },
+      {
+        "name": "Anything goes",
+        "duration": "3:26",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xZlhOX-VA_bcb3We5hl1qSK690xBTVLM",
+        "order": 10
+      },
+      {
+        "name": "Rocket Queen",
+        "duration": "6:13",
+        "mp3StreamUrl": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1j7Yon1I6sN3Akqi4WX7DzTsJLWEhwou9",
+        "order": 11
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Pronounced Leh-nerd Skin-nerd",
+    "releaseDate": 1973,
+    "imageUrl": "https://musiczone.ie/wp-content/uploads/2015/06/Lynyrd-Skynyrd-%E2%80%93-Pronounced-Leh-nerd%E2%80%A6.jpg",
+    "artist": "Lynyrd Skynyrd",
+    "songs": [
+      {
+        "name": "I Ain’t the One",
+        "duration": "3:53",
+        "mp3StreamUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3",
+        "order": 0
+      },
+      {
+        "name": "Tuesday's Gone",
+        "duration": "7:32",
+        "mp3StreamUrl": "https://sample-videos.com/audio/mp3/wave.mp3",
+        "order": 1
+      }
+    ]
+  }
+]
